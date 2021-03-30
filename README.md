@@ -15,4 +15,8 @@
 - 🔑 Love with Data Structures and Algorithm.
 - 💬 Ask me about anything related to Web Development.
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=zemse)](https://github.com/ryo-ma/github-profile-trophy)
+
 ![Tathagat's github stats](https://github-readme-stats.vercel.app/api?username=pranjal1127&show_icons=true&hide_border=true)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjal1127&layout=compact)
