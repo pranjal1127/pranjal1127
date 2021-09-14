@@ -4,7 +4,6 @@
 [![Gmail Badge](https://img.shields.io/badge/-Gmail-c14438?style=social&logo=Gmail&logoColor=red&link=mailto:pranjalagrawal85@gmail.com)](mailto:pranjalagrawal85@gmail.com)
 ![](https://komarev.com/ghpvc/?username=pranjal1127&color=dc143c)
 <img align="right" height="250" width="400" alt="GIF" src="https://miro.medium.com/max/1360/1*IRGHmiGsa16stedQvIaZfw.gif" />
-![](https://visitor-badge.glitch.me/badge?page_id=pranjal1127.visitor-badge)
 
 
 
