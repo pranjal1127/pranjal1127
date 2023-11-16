@@ -10,11 +10,14 @@
 ### 😉 About
 
 - 🔭 I’m currently working with Precisely.
-- 🌱 I’m currently learning Blockchain. 
+- 🌱 Tring to build something crazy on blockchain. 
 - 🏄‍ Actively contributing to various organisations and Open-Source Projects.
 - 🔑 Love with Data Structures and Algorithm.
 - 💬 Ask me about anything related to Web Development.
 
+### 💼 Github Acount for work purpose - [pranjal-85](https://github.com/pranjal-85)
+
+### Stats
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pranjal1127)](https://github.com/ryo-ma/github-profile-trophy)
 
