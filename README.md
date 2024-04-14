@@ -21,5 +21,3 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=pranjal1127)](https://github.com/ryo-ma/github-profile-trophy)
 
-![Pranjal's github stats](https://github-readme-stats.vercel.app/api?username=pranjal1127&show_icons=true&hide_border=true&count_private=true&include_all_commits=true)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=pranjal1127&layout=compact)
